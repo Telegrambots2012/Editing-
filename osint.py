@@ -229,10 +229,10 @@ def init_db():
     conn.close()
 
 # Bot configuration
-BOT_TOKEN = "85792885:AqNxEqnPhHvZ6mpFpuosWZYCH76JHD5u
-ADMIN_USER_ID = 8125487901  # Default/Owner admin
-BOT_OWNER_ID =  8125487901   # Bot owner - cannot be removed
-BOT_OWNER_USERNAME = "Rytce"  # Owner username for contact
+BOT_TOKEN = "8728288603:AAFkdyQLFU4RQHuaJcLRhpEeCSawcDLHDeM"
+ADMIN_USER_ID = 5464634575  # Default/Owner admin
+BOT_OWNER_ID =  5464634575   # Bot owner - cannot be removed
+BOT_OWNER_USERNAME = "@Darkeyy0"  # Owner username for contact
 
 # Initialize logging - ONLY CONSOLE, NO FILE
 logging.basicConfig(
